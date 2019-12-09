@@ -1,0 +1,6 @@
+[submodule "OSFAT12"]
+	path = OSFAT12
+	url = https://github.com/Debonex/OSFAT12.git
+[submodule "OSTask3"]
+	path = OSTask3
+	url = https://github.com/Debonex/OSTask3.git
