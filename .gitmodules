@@ -4,3 +4,6 @@
 [submodule "OSTask3"]
 	path = OSTask3
 	url = https://github.com/Debonex/OSTask3.git
+[submodule "OSTask4"]
+	path = OSTask4
+	url = https://github.com/Debonex/OSTask4.git
